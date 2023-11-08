@@ -9,7 +9,7 @@ Flask Camp in Winter Vacation for KGHS
 <tr><td>10:10-11:00</td><td>向世界問好 (Hello World)</td><td>
 <UL>
 <LI>Remote Login
-<LI> Flask
+<LI> <A HREF='https://flask.palletsprojects.com/en/2.2.x/'>Flask</A>
 <LI> HTML IMG
 </UL>
 </td>
@@ -201,7 +201,7 @@ Charts</A></td>
 <tr><td colspan=3>Day 4</td>
 
 <tr><td>09:10-10:00</td>
-<td>CSS &amp; JavaScript</td>
+<td><A HREF='https://www.w3schools.com/Css/'>CSS</A> &amp; JavaScript</td>
 <td><ol>
     <li>CSS Styles, Fonts, Background Colors
     <LI>HTML DOM
@@ -230,7 +230,7 @@ Charts</A></td>
 </td>
 </tr>
 
-<tr><td>13:30-15:20</td>
+<tr><td>13:30-14:20 <BR> 14:30-15:20</td>
 <td>成果發表</td>
 </tr>
 

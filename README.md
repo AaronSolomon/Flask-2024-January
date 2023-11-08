@@ -57,4 +57,78 @@ Flask Camp in Winter Vacation for KGHS
 </td>
 </tr>
 
+<tr><td colspan=3>Day 2</td></tr>
+<tr><td>09:10-10:00</td>
+<td><A
+HREF='https://www.w3schools.com/html/html_form_input_types.asp'>More HTML Input Types</A></td>
+<td><ol>
+    <li>Password</li>
+    <LI>Date
+        <UL>
+        <LI>你生日星期幾？</LI>
+        </UL>
+        </LI>
+    <LI>File
+        <UL>
+        <LI>Upload files</li>
+        </ul>
+        </LI>
+    </ol>
+</td>
+</tr>
+
+<tr><td>10:10-11:00</td>
+<td>Python File I/O</td>
+<td><ol>
+    <li>Write</li>
+    <LI>Read</li>
+    </OL>
+</td>
+</tr>
+
+<tr><td>11:10-12:00</td>
+<td>Directories &amp; File Manipulation</td>
+<td>
+    <ol>
+    <LI>glob
+    <LI>getcwd
+    <LI>chdir
+    <LI>rename
+    <LI>remove
+    <LI>isfile
+    <LI>change time (os.utime)
+    </ol>
+</td>
+</tr>
+
+<tr><td>13:30-14:20</td>
+<td>Basic Python Data Structures</td>
+<td>
+    <ol>
+    <LI> List
+    <LI> Tuple
+    <LI> Dict
+    </ol>
+</td>
+</tr>
+
+<tr><td>14:30-15:20</td>
+<td><A HREF='https://datatracker.ietf.org/doc/html/rfc7159.html'>JSON</A> Files</td>
+<td>
+    <ol>
+    <li>dump
+    <li>load
+    <LI>dumps
+    <li>loads
+    </OL>
+</td>
+
+<tr><td>15:30-16:20</td>
+<td>Templates: 程式看起來更精簡</td>
+<td><ol>
+    <li> {% for endfor %}
+    <LI> {% if else endif %}
+    </ol>
+</tr>
+
 </table>

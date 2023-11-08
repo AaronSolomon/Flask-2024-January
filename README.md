@@ -136,6 +136,7 @@ HREF='https://www.w3schools.com/html/html_form_input_types.asp'>More HTML Input 
 <td>Cookie & Session 讓它記得你</td>
 <td>
     <ol>
+    <LI> 客倌，您三天沒來啦！
     <li>Login without asking passwords in 30 days
     </OL>
 </td>
@@ -148,6 +149,8 @@ HREF='https://www.w3schools.com/html/html_form_input_types.asp'>More HTML Input 
     <ol>
     <li>唐詩三百首
     <li>余光中
+    <LI>台大電機<A
+    HREF='https://web.ee.ntu.edu.tw/teacher_index_all.php'>所有教授</A>
     </ol>
 </td>
 </tr>
@@ -182,7 +185,12 @@ HREF='https://www.w3schools.com/html/html_form_input_types.asp'>More HTML Input 
 <tr>
 <td>14:30-15:20</td>
 <td> 資料庫: SQLite (2)</td>
-<td>Access SQLite database in Python</td>
+<td>Access SQLite database in Python
+    <OL>
+    <LI>標註具有「顏色」、「溫度」、「季節」的詩。
+    </OL>
+</td>
+    
 </tr>
 
 <tr><td>15:30-16:20</td>

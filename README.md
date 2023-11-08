@@ -126,9 +126,106 @@ HREF='https://www.w3schools.com/html/html_form_input_types.asp'>More HTML Input 
 <tr><td>15:30-16:20</td>
 <td>Templates: 程式看起來更精簡</td>
 <td><ol>
-    <li> {% for endfor %}
-    <LI> {% if else endif %}
+    <li> {% for-endfor %}
+    <LI> {% if-else-endif %}
     </ol>
+</tr>
+
+<tr><td colspan=3>Day 3</td>
+<tr><td>09:10-10:00</td>
+<td>Cookie & Session 讓它記得你</td>
+<td>
+    <ol>
+    <li>Login without asking passwords in 30 days
+    </OL>
+</td>
+</tr>
+
+<tr>
+<td>10:10-11:00 Webscrapy 網路爬蟲 (1)</td>
+<td>
+    <ol>
+    <li>唐詩三百首
+    <li>余光中
+    </ol>
+</td>
+</tr>
+
+<tr>
+<td>11:10-12:00</td>
+<td>Webscrapy 網路爬蟲 (2)</td>
+<td>遇到拒絕爬蟲的網站
+    <ol>
+    <li>我不是爬蟲
+    <LI>帳號密碼
+    <LI>全唐詩
+    <LI>方文山
+    </ol>
+</td>
+</tr>
+
+<tr>
+<td>13:30-14:20</td>
+<Td>資料庫: <A HREF='https://www.sqlite.org/index.html'>SQLite</A> (1)</td>
+<td>
+    <ol>
+    <LI>Create Database
+    <LI> Insert Data
+    <LI> Query Data
+    <LI> Update Data
+    <LI> Delete Data
+    <LI> SQL Syntax
+    </OL>
+</td></tr>
+
+<tr>
+<td>14:30-15:20</td>
+<td> 資料庫: SQLite (2)</td>
+<td>Access SQLite database in Python</td>
+</tr>
+
+<tr><td>15:30-16:20</td>
+<td><A
+HREF='https://www.w3schools.com/js/js_graphics_google_chart.asp'>Google
+Charts</A></td>
+<td><ol>
+    <LI>Line Chart
+    <LI>Bar Chart
+    <LI> Pie Chart
+    <LI>Scatter Chart
+    </OL>
+</td>
+</tr>
+
+<tr><td colspan=3>Day 4</td>
+
+<tr><td>09:10-10:00</td>
+<td>CSS &amp; JavaScript</td>
+<td><ol>
+    <li>CSS Styles, Fonts, Background Colors
+    <LI>HTML DOM
+    <LI>JavaScript Events
+    </OL>
+</td></tr>
+
+<tr>
+<td>10:10-11:00 Webscrapy 網路爬蟲 (3)</td>
+<td>
+    <ol>
+    <LI> QR Code
+    <LI>Selenium
+    </ol>
+</td>
+</tr>
+
+<tr><td>11:10-12:00 </td>
+<td>與世界互動  : Email (電子郵件)</td>
+<td>
+    <ol>
+    <LI>送信給加西亞
+    <LI>自動回覆
+    </OL>
+</td>
 </tr>
 
 </table>

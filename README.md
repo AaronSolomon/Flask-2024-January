@@ -142,7 +142,8 @@ HREF='https://www.w3schools.com/html/html_form_input_types.asp'>More HTML Input 
 </tr>
 
 <tr>
-<td>10:10-11:00 Webscrapy 網路爬蟲 (1)</td>
+<td>10:10-11:00 </td>
+<td>Webscrapy 網路爬蟲 (1)</td>
 <td>
     <ol>
     <li>唐詩三百首
@@ -209,7 +210,8 @@ Charts</A></td>
 </td></tr>
 
 <tr>
-<td>10:10-11:00 Webscrapy 網路爬蟲 (3)</td>
+<td>10:10-11:00 </td>
+<td>Webscrapy 網路爬蟲 (3)</td>
 <td>
     <ol>
     <LI> QR Code
@@ -226,6 +228,14 @@ Charts</A></td>
     <LI>自動回覆
     </OL>
 </td>
+</tr>
+
+<tr><td>13:30-15:20</td>
+<td>成果發表</td>
+</tr>
+
+<tr><td>15:30-16:20</td>
+<td>頒發獎狀及研習證書</td>
 </tr>
 
 </table>

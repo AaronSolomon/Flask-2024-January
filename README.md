@@ -113,7 +113,7 @@ HREF='https://www.w3schools.com/html/html_form_input_types.asp'>More HTML Input 
 </tr>
 
 <tr><td>14:30-15:20</td>
-<td><A HREF='https://datatracker.ietf.org/doc/html/rfc7159.html'>JSON</A> Files</td>
+<td><A HREF='https://docs.python.org/3.10/library/json.html?highlight=json#module-json'>JSON</A> Files</td>
 <td>
     <ol>
     <li>dump
@@ -238,7 +238,7 @@ Charts</A></td>
 <td>頒發獎狀及研習證書</td>
 </tr>
 
-<tr><td colspan=3>Day 5 (同場加映) 資料結構與演算法體驗營</td></tr>
+<tr><td colspan=3>Day 5 (同場加映) 資料結構與演算法一日體驗營</td></tr>
 
 <tr><td>Plan A:
     <ol>
@@ -265,11 +265,12 @@ Charts</A></td>
     </OL>
     </td>
 </tr>
-<tr><td></td><td>每節時間分配:
+<tr><td>每節時間分配:
 <OL>
 <LI> 10min 題目及原理講解
 <LI> 15min 小組討論
 <LI> 40min 寫程式
 <LI> 15min 心得分享
 </OL>
+</td></tr>
 </table>

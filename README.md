@@ -242,7 +242,7 @@ Charts</A></td>
 
 <tr><td>Plan A:
     <ol>
-    <LL>量測執行時間
+    <LI>量測執行時間
     <LI>矩陣乘法 (any size)
     <LI> 稀疏矩陣 (Sparse Matrix)
     <LI> 誰該先乘? (Optimize the Operation)

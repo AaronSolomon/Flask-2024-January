@@ -300,4 +300,8 @@ Charts</A></td>
 </td>
 </tr>
 
+<tr><td>16:40-17:00</td>
+<td>頒發獎狀</td>
+</tr>
+
 </table>

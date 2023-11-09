@@ -250,19 +250,22 @@ Charts</A></td>
 
 <tr><td colspan=3>Day 5 (同場加映) 資料結構與演算法一日體驗營</td></tr>
 
-<tr><td>每節時間分配:
-    <OL>
-    <LI> 10min 題目及原理講解
-    <LI> 15min 小組討論
-    <LI> 40min 寫程式
-    <LI> 15min 心得分享
-    </OL>
-</td> <td>Plan C:
+<tr>
+<td></td>
+<td>Plan C:
     <OL>
     <LI>空間複雜度
     <LI> 如何儲存/畫出迷宮?
     <LI> DFS and Stack, Backtracking (該回頭了)
     <LI> 最佳解
+    </OL>
+</td>
+<td>每節時間分配:
+    <OL>
+    <LI> 10min 題目及原理講解
+    <LI> 15min 小組討論
+    <LI> 40min 寫程式
+    <LI> 15min 心得分享
     </OL>
 </td>
 </tr>

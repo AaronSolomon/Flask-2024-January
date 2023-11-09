@@ -222,6 +222,8 @@ Charts</A></td>
 <td>Webscrapy 網路爬蟲 (3)</td>
 <td>
     <ol>
+    <LI> OpenData: <A
+    HREF='https://bsb.kh.edu.tw/afterschool/opendata/afterschool_json.jsp?city=70'>高雄市的補習班</A>類別
     <LI> QR Code
     <LI>Selenium
     </ol>
@@ -248,22 +250,15 @@ Charts</A></td>
 
 <tr><td colspan=3>Day 5 (同場加映) 資料結構與演算法一日體驗營</td></tr>
 
-<tr><td>Plan A:
-    <ol>
-    <LI>量測執行時間
-    <LI>矩陣乘法 (any size)
-    <LI> 稀疏矩陣 (Sparse Matrix)
-    <LI> 誰該先乘? (Optimize the Operation)
-    </OL>
-    </td>
-    <td>Plan B:
-    <OL>
-    <LI> 時間複雜度 (Time Complexity)
-    <LI> 圖形表示法
-    <LI> 一筆劃問題
-    <LI> 最短路徑
-    </OL>
-    </td>
+<tr><td>每節時間分配:
+<OL>
+<LI> 10min 題目及原理講解
+<LI> 15min 小組討論
+<LI> 40min 寫程式
+<LI> 15min 心得分享
+</OL>
+</td>
+
     <td>Plan C:
     <OL>
     <LI>空間複雜度
@@ -273,12 +268,5 @@ Charts</A></td>
     </OL>
     </td>
 </tr>
-<tr><td>每節時間分配:
-<OL>
-<LI> 10min 題目及原理講解
-<LI> 15min 小組討論
-<LI> 40min 寫程式
-<LI> 15min 心得分享
-</OL>
-</td></tr>
+
 </table>

@@ -257,16 +257,14 @@ Charts</A></td>
     <LI> 40min 寫程式
     <LI> 15min 心得分享
     </OL>
-    </td>
-
-    <td>Plan C:
+</td> <td>Plan C:
     <OL>
     <LI>空間複雜度
     <LI> 如何儲存/畫出迷宮?
     <LI> DFS and Stack, Backtracking (該回頭了)
     <LI> 最佳解
     </OL>
-    </td>
+</td>
 </tr>
 
 </table>
